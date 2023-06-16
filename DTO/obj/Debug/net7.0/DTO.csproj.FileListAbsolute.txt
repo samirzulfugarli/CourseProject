@@ -1,0 +1,15 @@
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\bin\Debug\net7.0\Entity.dll
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\bin\Debug\net7.0\Entity.pdb
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\Samir-SSD\source\repos\MyCourseProject\DTO\obj\Debug\net7.0\ref\DTO.dll
