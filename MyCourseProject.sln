@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.33711.374
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCourseProject", "MyCourseProject\MyCourseProject.csproj", "{421D908A-3AEF-47A2-9318-9BCAAA6ED5B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyCourseProject", "MyCourseProject\MyCourseProject.csproj", "{421D908A-3AEF-47A2-9318-9BCAAA6ED5B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{2CC6AE40-A55E-4589-90D8-18DB3A9B1932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{2CC6AE40-A55E-4589-90D8-18DB3A9B1932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{DD5B1D8B-F2D6-4EDB-ADF0-589AA459DF32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csproj", "{DD5B1D8B-F2D6-4EDB-ADF0-589AA459DF32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{2F5C71A9-0A03-4E4D-909E-72832C903BB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "DTO\DTO.csproj", "{2F5C71A9-0A03-4E4D-909E-72832C903BB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{39CAB910-FB40-4124-93AA-BDD1A2A1BEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{39CAB910-FB40-4124-93AA-BDD1A2A1BEF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
