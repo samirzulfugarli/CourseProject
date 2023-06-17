@@ -15,6 +15,7 @@ namespace DAL.CustomMigration
             MySiteSeed.Seed(modelBuilder);
             RoleSeed.Seed(modelBuilder);
             UserSeed.Seed(modelBuilder);
+            CategorySeed.Seed(modelBuilder);
         }
     }
 }
